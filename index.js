@@ -86,4 +86,4 @@ async function findNearestNeighbors(pathReports, slideEmbeddings) {
 }
 
 // Call the function to display the first objects
-displayFirstObjects();
+// displayFirstObjects();
